@@ -1,0 +1,6 @@
+framework module AJTagView {
+  umbrella header "AJTagView-umbrella.h"
+
+  export *
+  module * { export * }
+}

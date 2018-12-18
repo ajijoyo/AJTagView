@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AJTagView_Example' do
+  pod 'AJTagView', :path => '../'
+
+  target 'AJTagView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

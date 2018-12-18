@@ -1,0 +1,6 @@
+framework module Pods_AJTagView_Tests {
+  umbrella header "Pods-AJTagView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

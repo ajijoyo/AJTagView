@@ -1,0 +1,16 @@
+PODS:
+  - AJTagView (0.1.0)
+
+DEPENDENCIES:
+  - AJTagView (from `../`)
+
+EXTERNAL SOURCES:
+  AJTagView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AJTagView: 6470df2be3f428c0ad841e2244a55b30128f0ba8
+
+PODFILE CHECKSUM: 670b2062b9f9fd23705fc5f42aace154673537e7
+
+COCOAPODS: 1.5.3
